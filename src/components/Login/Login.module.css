@@ -1,0 +1,33 @@
+.loginPage {
+  width: 100%;
+
+}
+
+.loginForm {
+  border: 1px solid rgb(182, 195, 252);
+  box-sizing: border-box;
+  box-shadow: 0px 0px 5px rgb(182, 195, 252);
+  border-radius: 15px;
+  width: 540px;
+  margin: 0 auto;
+  margin-top: 10vw;
+  padding: 20px 70px;
+}
+
+.loginForm div {
+  width: 100%;
+}
+
+.loginForm p {
+  color: rgb(43, 65, 165)
+}
+
+.submit {
+  margin-top: 20px;
+  text-align: right;
+}
+
+
+.loginForm input[type='submit'] {
+  text-align: right;
+}

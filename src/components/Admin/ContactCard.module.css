@@ -1,0 +1,19 @@
+.name {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(43, 65, 165)
+}
+
+.phone {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(71, 88, 163);
+  margin-top: 10px;
+}
+
+.company {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+  color: rgb(71, 88, 163);
+}

@@ -1,0 +1,22 @@
+.header {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.header button {
+  color: rgb(43, 65, 165);
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+
+.header a {
+  color: rgb(43, 65, 165);
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 20px;
+  text-decoration: none;
+}
