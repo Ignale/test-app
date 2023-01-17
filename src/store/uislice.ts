@@ -29,7 +29,7 @@ if(localStorage.getItem('token')) {
 export const authUser= createAsyncThunk('auth/fetchUser', 
 async (credentials: credentials) => {
  
-    const response = await fetch(`https://json-server-app.herokuapp.com//${credentials.endpoint}`, {
+    const response = await fetch(`https://json-server-app.herokuapp.com/${credentials.endpoint}`, {
     method: credentials.method, 
     body: JSON.stringify(credentials.endpoint === 'login'? 
     {email: credentials.email, password: credentials.password}: 
