@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/test-app-gh-pages/static/css/main.5c331aeb.css",
-    "main.js": "/test-app-gh-pages/static/js/main.f634dc08.js",
-    "index.html": "/test-app-gh-pages/index.html",
-    "main.5c331aeb.css.map": "/test-app-gh-pages/static/css/main.5c331aeb.css.map",
-    "main.f634dc08.js.map": "/test-app-gh-pages/static/js/main.f634dc08.js.map"
+    "main.css": "/test-app/static/css/main.5c331aeb.css",
+    "main.js": "/test-app/static/js/main.f634dc08.js",
+    "index.html": "/test-app/index.html",
+    "main.5c331aeb.css.map": "/test-app/static/css/main.5c331aeb.css.map",
+    "main.f634dc08.js.map": "/test-app/static/js/main.f634dc08.js.map"
   },
   "entrypoints": [
     "static/css/main.5c331aeb.css",
