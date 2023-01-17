@@ -15,13 +15,7 @@ const Admin = () => {
 
   const filteredContacts = contacts?.filter(contact => {
     return (contact.name.toUpperCase().indexOf(input.toUpperCase()) !== -1 || 
-            contact.additionalInfo.toUpperCase().indexOf(input.toUpperCase()) !== -1)
-  
-  
-  }
-    
-    )
-
+            contact.additionalInfo.toUpperCase().indexOf(input.toUpperCase()) !== -1)})
   return (
     <div>
       <TextField placeholder='Поиск' sx={{width: '100%'}} onChange={(e:React.BaseSyntheticEvent) => setinput(e.target.value)} />

@@ -6,34 +6,6 @@
       "name": "Alex",
       "sirname": "Ignatev",
       "id": 1
-    },
-    {
-      "email": "popkova`anna@gmail.com",
-      "password": "$2a$10$ga/6lCbqwz8XXvFE7.6G.unwLbxbpx919lq5EGVty.om6v/BxiBQu",
-      "name": "Anna",
-      "sirname": "Popkova",
-      "id": 2
-    },
-    {
-      "email": "example@gmail.com",
-      "password": "$2a$10$5LwPR2ybe6tfIvaYm9vsg.TCe9VgpM86dVyk68SZ54ERqVARywNme",
-      "name": "Popuhay",
-      "sirname": "Kesha",
-      "id": 3
-    },
-    {
-      "email": "dina@horizonevents.ru",
-      "password": "$2a$10$1p53B.0ZrhqrYkUgvTm8pOxS62IPf8qnElZ4DReJ6TVEboVHsujEu",
-      "name": "Юлия",
-      "sirname": "ghytgh",
-      "id": 4
-    },
-    {
-      "email": "alexey.jworg@gmail.com",
-      "password": "$2a$10$uXymKxyil1dYTYgtNMU7OOMuexj/U2hz.efceF3N1XhTHhoEw9hAW",
-      "name": "ererer",
-      "sirname": "ghytgh",
-      "id": 5
     }
   ],
   "contacts": [
@@ -42,14 +14,14 @@
       "name": "Alex",
       "phone": "+79997055002",
       "additionalInfo": "Front-end developer",
-      "userId": 2
+      "userId": 1
     },
     {
       "id": 5,
       "name": "Alex",
       "phone": "+79997055002",
       "additionalInfo": "Front-end developer",
-      "userId": 2
+      "userId": 1
     },
     {
       "name": "Anna",
