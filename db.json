@@ -6,6 +6,20 @@
       "name": "Alex",
       "sirname": "Ignatev",
       "id": 1
+    },
+    {
+      "email": "igna.lex@yandex.ru",
+      "password": "$2a$10$.SvN0im2Kx/WZM1.gKWOj.uhB.jaSALaTDGyl0zOoZ5qcGU3VfcNW",
+      "name": "asdfsadf",
+      "sirname": "asdfsadf",
+      "id": 2
+    },
+    {
+      "email": "dina@horizonevents.ru",
+      "password": "$2a$10$9V6bTthP0ifOcbiFM53PYeDiJgMWMsxI3bQGvHdCNmZgpPm78.ywi",
+      "name": "iMac",
+      "sirname": "asdfsadf",
+      "id": 3
     }
   ],
   "contacts": [
@@ -31,18 +45,11 @@
       "id": 10
     },
     {
-      "name": "Alex Ignatev",
+      "name": "Alex Ignatevf",
       "additionalInfo": "Back-end developer",
       "phone": "+905510877679",
       "userId": "3",
       "id": 11
-    },
-    {
-      "name": "Alex",
-      "additionalInfo": "Back-end developer",
-      "phone": "+79152645919",
-      "userId": "5",
-      "id": 13
     },
     {
       "name": "Alex Ignatev",
@@ -92,6 +99,41 @@
       "phone": "+79152645919",
       "userId": "1",
       "id": 20
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "2",
+      "id": 21
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Copywriter",
+      "phone": "+79152645919",
+      "userId": "2",
+      "id": 22
+    },
+    {
+      "name": "Anna",
+      "additionalInfo": "Front-end",
+      "phone": "+7 999 705 50 02",
+      "userId": "2",
+      "id": 23
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Back-end developer",
+      "phone": "+79152645919",
+      "userId": "3",
+      "id": 24
+    },
+    {
+      "name": "ererer",
+      "additionalInfo": "Back-end developer",
+      "phone": "+79152645919",
+      "userId": "3",
+      "id": 25
     }
   ]
 }

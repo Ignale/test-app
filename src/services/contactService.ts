@@ -6,7 +6,7 @@ import {User, Contact} from '../models/Contacts'
 type ContactsResponse = User['contacts']
 
 export const api = createApi({
-  baseQuery: fetchBaseQuery({baseUrl: 'https://json-server-app.herokuapp.com/'}),
+  baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:5000/'}),
   reducerPath: 'contactsAPI',
   tagTypes: ['Contacts'],
   endpoints: (build) => ({
